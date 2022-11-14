@@ -3,6 +3,6 @@
 
 ## 2022 이력서/경력기술서
 
-* [이력서 보기](https://github.com/eagle-25/resume/blob/main/pdf/2022%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+* [이력서 보기](https://career.programmers.co.kr/pr/eagle25)
 * [경력기술서 보기](https://github.com/eagle-25/resume/blob/main/pdf/2022%20%EA%B2%BD%EB%A0%A5%20%EA%B8%B0%EC%88%A0%EC%84%9C.pdf)
 
